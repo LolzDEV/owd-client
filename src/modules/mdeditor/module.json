@@ -1,0 +1,32 @@
+{
+  "name": "mdeditor",
+  "version": "1.0.0",
+  "license": "GNU GPL V3",
+  "homepage": "https://www.github.com/LolzDEV",
+  "author": {
+    "name": "LolzDEV",
+    "url": "https://github.com/LolzDEV"
+  },
+  "windows": [
+    {
+      "name": "MDEditor",
+      "title": "MDEditor",
+      "titleShort" : "MarkDown Editor",
+      "icon": "web",
+      "color": "#37a5c4",
+      "externalUrl": "http://192.168.1.10",
+      "iframeUrl": "http://192.168.1.10",
+      "window": {
+        "menu": true,
+        "closed": true,
+        "minimized": false,
+        "resizable": false,
+        "width": 728,
+        "height": 510,
+        "x": 0,
+        "y": 0,
+        "z": 0
+      }
+    }
+  ]
+}

@@ -5,6 +5,11 @@
       "name": "sample",
       "version": "1.0.0",
       "url": "https://www.github.com/hacklover/owd-sample"
+    },
+    "mdeditor": {
+      "name": "MDEditor",
+      "version": "1.0.0",
+      "url": "https://www.github.com/LolzDEV"
     }
   }
 }
